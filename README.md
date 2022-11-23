@@ -21,6 +21,12 @@ Both reads are not mapped:
 
 * unmap.1
 
+## Reads diagram
+
+Schematic representation (coordinates not to scale, overlapping reads are spread apart
+to simplify the picture) of the read pairs
+
+![Reads diagram](notes/scheme.svg)
 
 ## The SAM output
 
